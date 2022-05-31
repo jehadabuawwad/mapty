@@ -16,6 +16,12 @@ VS Code
   - Release Discription: This is an initialization for code base
   - Relase Date : 31/5/2022
 
+  - _**V 0.0.2**_ :
+
+  - Release Title : Project geo location feature
+  - Release Discription: a geo location feature implementation
+  - Relase Date : 1/6/2022
+
 ---
 
 ## Getting Started
@@ -31,6 +37,7 @@ $ git clone https://github.com/jehadabuawwad/mapty.git
 ## Change Log
 
 - 0.0.1 : Project initailization
+- 0.0.2 : Project geo location feature
 
 ---
 
