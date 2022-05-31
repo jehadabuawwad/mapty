@@ -1,12 +1,16 @@
 # Mapty Application
 
+Mapty is an application for pointing a running or cycling travel on map made by native languages HTML/CSS/JS
+
 ---
 
 ## Tools Used
 
-VS Code
+- VS Code
+- Javscript
+- HTML/CSS
 
----
+---SSSSSSSSSSSSSSSSSSSSS
 
 ## Recent Updates
 
