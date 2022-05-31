@@ -10,7 +10,7 @@ Mapty is an application for pointing a running or cycling travel on map made by 
 - Javscript
 - HTML/CSS
 
----SSSSSSSSSSSSSSSSSSSSS
+---
 
 ## Recent Updates
 
