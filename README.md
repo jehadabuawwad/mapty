@@ -12,6 +12,10 @@ VS Code
 
 - _**V 0.0.1**_ :
 
+  - Release Title : Project initailization
+  - Release Discription: This is an initialization for code base
+  - Relase Date : 31/5/2022
+
 ---
 
 ## Getting Started
@@ -26,7 +30,7 @@ $ git clone https://github.com/jehadabuawwad/mapty.git
 
 ## Change Log
 
-- 0.0.1 :
+- 0.0.1 : Project initailization
 
 ---
 
